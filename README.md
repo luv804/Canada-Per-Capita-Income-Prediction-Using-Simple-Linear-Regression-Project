@@ -7,7 +7,7 @@ Despite the importance of per capita income as an economic indicator, forecastin
 ### Python Libraries 
 + Numpy
 + Pandas
-+ Sci-kit Learn
++ Scikit-learn
 + Matplotlib
 ### About the Dataset
 The dataset has been sourced from https://www.kaggle.com/datasets/gurdit559/canada-per-capita-income-single-variable-data-set
