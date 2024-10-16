@@ -10,7 +10,7 @@ Despite the importance of per capita income as an economic indicator, forecastin
 + Sci-kit Learn
 + Matplotlib
 ### About the Dataset
-The dataset has been taken from https://www.kaggle.com/datasets/gurdit559/canada-per-capita-income-single-variable-data-set
+The dataset has been sourced from https://www.kaggle.com/datasets/gurdit559/canada-per-capita-income-single-variable-data-set
 ### Results
 The model achieved an accuracy of 76% when evaluated on test data.
 The model predicts that by 2040, Canada's per capita income will amount to $59,553.04 USD.
