@@ -3,7 +3,7 @@
 ### Linear Regression
 Linear Regression is a statistical model that estimates the linear relationship between a dependent variable and one or more independent variables. The case of one independent variable is called Simple Linear Regression
 ### The Problem Statement
-Despite the importance of per capita income as an economic indicator, forecasting its future values can be challenging due to the influence of various factors, including economic growth, inflation rates, employment levels, and demographic changes. This project aims to predict the per capita income of Canada using simple linear regression. By analyzing historical income data and other relevant factors, we can develop a predictive model that offers insights into economic trends and helps policymakers make informed decisions.
+Despite the importance of per capita income as an economic indicator, forecasting its future values can be challenging due to the influence of various factors, including economic growth, inflation rates, employment levels, and demographic changes. This project aims to predict the per capita income of Canada using simple linear regression. By analyzing historical data which includes the per capita income of Canada from 1970 to 2016, I developed a predictive model that offers insights into the forecasting of per capita income of the country.
 ### Python Libraries 
 + Numpy
 + Pandas
